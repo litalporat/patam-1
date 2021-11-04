@@ -41,6 +41,7 @@ public class StatLib {
 		return result;
 	}
 
+	// a test
 
 	// returns the Pearson correlation coefficient of X and Y
 	public static float pearson(float[] x, float[] y){
